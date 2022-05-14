@@ -1,2 +1,7 @@
 # Tech-I-Learned
-✏학습한 내용을 정리합니다.
+1. [Network](#network)
+---
+
+
+# Network
+[네트워크 시리즈 모아보기](https://velog.io/@printver_2world/series/Network)
